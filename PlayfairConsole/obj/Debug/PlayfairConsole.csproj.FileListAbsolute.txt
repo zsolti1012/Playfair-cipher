@@ -1,0 +1,24 @@
+C:\Users\O.Zsolt\source\repos\PlayfairConsole\PlayfairConsole\bin\Debug\PlayfairConsole.exe.config
+C:\Users\O.Zsolt\source\repos\PlayfairConsole\PlayfairConsole\bin\Debug\PlayfairConsole.exe
+C:\Users\O.Zsolt\source\repos\PlayfairConsole\PlayfairConsole\bin\Debug\PlayfairConsole.pdb
+C:\Users\O.Zsolt\source\repos\PlayfairConsole\PlayfairConsole\obj\Debug\PlayfairConsole.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\source\repos\PlayfairConsole\PlayfairConsole\obj\Debug\PlayfairConsole.exe
+C:\Users\O.Zsolt\source\repos\PlayfairConsole\PlayfairConsole\obj\Debug\PlayfairConsole.pdb
+C:\Users\O.Zsolt\Desktop\PlayfairConsole\PlayfairConsole\bin\Debug\PlayfairConsole.exe.config
+C:\Users\O.Zsolt\Desktop\PlayfairConsole\PlayfairConsole\bin\Debug\PlayfairConsole.exe
+C:\Users\O.Zsolt\Desktop\PlayfairConsole\PlayfairConsole\bin\Debug\PlayfairConsole.pdb
+C:\Users\O.Zsolt\Desktop\PlayfairConsole\PlayfairConsole\obj\Debug\PlayfairConsole.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\PlayfairConsole\PlayfairConsole\obj\Debug\PlayfairConsole.exe
+C:\Users\O.Zsolt\Desktop\PlayfairConsole\PlayfairConsole\obj\Debug\PlayfairConsole.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\PlayfairConsole\PlayfairConsole\bin\Debug\PlayfairConsole.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\PlayfairConsole\PlayfairConsole\bin\Debug\PlayfairConsole.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\PlayfairConsole\PlayfairConsole\bin\Debug\PlayfairConsole.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\PlayfairConsole\PlayfairConsole\obj\Debug\PlayfairConsole.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\OneDrive\Asztali gép\PlayfairConsole\PlayfairConsole\obj\Debug\PlayfairConsole.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\PlayfairConsole\PlayfairConsole\obj\Debug\PlayfairConsole.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Playfair-cipher\PlayfairConsole\bin\Debug\PlayfairConsole.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Playfair-cipher\PlayfairConsole\bin\Debug\PlayfairConsole.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Playfair-cipher\PlayfairConsole\bin\Debug\PlayfairConsole.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Playfair-cipher\PlayfairConsole\obj\Debug\PlayfairConsole.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Playfair-cipher\PlayfairConsole\obj\Debug\PlayfairConsole.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Playfair-cipher\PlayfairConsole\obj\Debug\PlayfairConsole.pdb
